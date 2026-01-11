@@ -38,7 +38,7 @@ Embora os dados já tivessem uma estrutura pré-definida, foi realizada a implem
 
 | Esquema de Dados (Snowflake Schema) |
 | :---: |
-| <img src="Images/01-modelo.png" width="800"> |
+| <img src="images/01-modelo.png" width="800"> |
 
 
 ### 2. Desenvolvimento de Inteligência de Negócio (DAX)
@@ -52,7 +52,7 @@ Construção de uma interface "clean", focada na redução de ruído visual (rem
 
 | Dashboard Final |
 | :---: |
-| <img src="Images/02-dashboards.png" width="900"> |
+| <img src="images/02-dashboards.png" width="900"> |
 
 ---
 
@@ -86,3 +86,4 @@ A análise dos dados permitiu identificar padrões críticos para a operação:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erickmichelandrade/)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erick.machado0600@gmail.com)
+
