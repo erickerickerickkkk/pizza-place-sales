@@ -84,4 +84,5 @@ A análise dos dados permitiu identificar padrões críticos para a operação:
 * Foco em Análise de Dados e Business Intelligence
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erickmichelandrade/)
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erick.machado0600@gmail.com)
